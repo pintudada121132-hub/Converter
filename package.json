@@ -1,0 +1,12 @@
+{
+  "name": "web2apk-converter",
+  "version": "1.0.0",
+  "description": "Website to Android APK Builder with Auto-Detect and Optional Feature Switches",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Converter",
+  "license": "MIT"
+}
